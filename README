@@ -1,0 +1,2 @@
+This code for debug some features of avr microcontrollers.
+UART transmit using interrput and buffer. Receiving without interrput.
